@@ -4,7 +4,7 @@ import pprint
 import urllib
 import uuid
 
-host='http://localhost:40400'
+host='http://computerica.asuscomm.com:40400'
 
 ses = requests.Session()
 
